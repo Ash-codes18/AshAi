@@ -1,5 +1,5 @@
 import React, {useContext, useEffect, useRef, useState} from 'react';
-import './Main.css';
+import './main.css';
 import {assets} from "../../assets/assets";
 import {context} from "../../context/context";
 
