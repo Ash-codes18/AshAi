@@ -104,7 +104,7 @@ const Main = () => {
                     </div>
                     <p className="bottom-info">
                         AshAi may display inaccurate info, including about people, so double-check its responses.
-                    </p>
+                    -</p>
                 </div>
             </div>
         </main>
